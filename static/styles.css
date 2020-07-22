@@ -1,0 +1,19 @@
+.form-element{
+    padding: 10px;
+    margin: 10px;
+}
+.age{
+    margin-left: 45px;
+}
+.temperature{
+    margin-right: 15px;
+}
+.temperature_input{
+    margin-right: 20px;
+}
+body{
+    text-align: center;
+}
+span{
+    margin: 10px;
+}
